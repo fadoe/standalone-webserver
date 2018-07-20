@@ -1,4 +1,14 @@
 {
+    "name": "fadoe/standalone-webserver",
+    "license": "BSD-3-Clause",
+    "type": "library",
+    "description": "Use the Symfony webserver bundle as a standalone application.",
+    "authors": [
+        {
+            "name": "Falk Doering",
+            "email": "falk.doering@fadoe.de"
+        }
+    ],
     "require": {
         "php": "^7.0",
         "symfony/web-server-bundle": "^3.3 || ^4.0"
