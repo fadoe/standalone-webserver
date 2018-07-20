@@ -17,5 +17,8 @@
         "psr-4": {
             "FaDoe\\StandaloneWebserver\\": "src"
         }
-    }
+    },
+    "bin": [
+        "bin/webserver"
+    ]
 }
